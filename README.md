@@ -1,5 +1,7 @@
 # sentiment-analysis-baseline-model
 
+![Sentiment Analysis Web App](Streamlit.png)
+
 Welcome to my Sentiment Analysis Web App! This project is a part of my portfolio, showcasing my skills in natural language processing and web development. 
 
 ## About the Project
